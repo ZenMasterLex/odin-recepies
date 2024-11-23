@@ -1,0 +1,10 @@
+* {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+ul, ol {
+    padding-left: 0%;
+    list-style-position: inside;
+}
